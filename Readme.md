@@ -76,6 +76,7 @@ This document outlines the steps taken to deploy the project to GitHub Pages, th
   ```html
   <script type="module" src="./main.tsx"></script>
   ```
+  - replaced with main.tsx from the (https://www.codestudy.net/blog/github-pages-and-relative-paths/) recommandation
   - Relative paths ensure that assets are loaded correctly regardless of the deployment environment.
 
 ### **2. GitHub Pages Branch Configuration**
